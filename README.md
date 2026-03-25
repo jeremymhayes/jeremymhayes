@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy (AspectOV)
 
-I'm a full-stack developer who likes building fun projects like desktop apps, web apps, backend systems, and game mechanics. Most of what I make is focused on being practical, fast, and easy to use.
+I'm a full-stack developer who likes building real things—desktop apps, web apps, backend systems, and game tools. Most of what I make is focused on being practical, fast, and easy to use.
 
 Right now I’ve been spending a lot of time with **C# / .NET**, **Next.js**, backend development, and self-hosted infrastructure.
 
@@ -83,40 +83,16 @@ My portfolio site where I share projects, skills, and what I’ve been building.
 
 ---
 
-### Self-Hosted API Gateway
-A backend service built to sync Discord server data with Roblox game instances in real time.
-
-**Built with:** Node.js, Express, Linux, Cloudflare  
-**Highlights:**
-- Real-time API communication between Discord and Roblox systems
-- JWT authentication and rate limiting
-- Deployed on a Linux server with Cloudflare Tunnel
-- Built for reliability and direct use in live community tools
-
----
-
 ### Multi-Purpose Discord Bot
-A self-hosted Discord bot built for community management, utilities, and persistent activity tracking.
+A self-hosted Discord bot built for community management, utilities, activity tracking, and backend-connected features used alongside Roblox systems.
 
-**Built with:** Python, SQLite, Linux  
+**Built with:** Python, SQLite, Node.js, Express, Linux, Cloudflare  
 **Highlights:**
 - Supports 200+ users across personal Discord communities
-- Moderation tools, utility commands, and logging
-- Persistent data handling with SQLite
-- Self-hosted and maintained on Linux infrastructure
-
----
-
-### Vacancy Filled (Roblox)
-A multiplayer horror game built on Roblox with custom gameplay systems and scripting.
-
-**Built with:** Luau, Roblox Studio  
-**Highlights:**
-- Custom gameplay and state management systems
-- Reusable mechanics built for multiplayer gameplay
-- Focus on atmosphere, pacing, and player experience
-
-[Play on Roblox](https://www.roblox.com/games/18686880348/Vacancy-Filled-Beta-Test)
+- Includes moderation tools, utility commands, and persistent logging
+- Uses a self-hosted API layer to sync Discord server data with Roblox game systems in real time
+- Built with JWT authentication, rate limiting, and Linux deployment through Cloudflare Tunnel
+- Designed as an actual live service, not just a small bot script
 
 ---
 
