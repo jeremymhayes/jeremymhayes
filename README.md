@@ -9,16 +9,6 @@ Right now I’ve been spending a lot of time with **C# / .NET**, **Next.js**, ba
 
 ---
 
-## What I Work On
-
-- Desktop applications with C# and WinUI
-- Full-stack web apps with Next.js and TypeScript
-- APIs, auth systems, and real-time backend services
-- Roblox game systems and scripting in Luau
-- Linux servers, Docker, Cloudflare, and self-hosted tools
-
----
-
 ## Tech Stack
 
 <p align="center">
