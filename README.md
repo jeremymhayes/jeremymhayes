@@ -1,15 +1,15 @@
-# Hi, I'm Jeremy (AspectOV) 👋
+# Hi, I'm Jeremy (AspectOV)
 
-I'm a passionate full-stack developer with a focus on creating engaging user experiences, from immersive games to secure and efficient web applications. Welcome to my digital workshop!
+I'm a full-stack developer focused on building things that are actually useful—whether that's games, tools, or web apps. I like working across the stack and figuring out how everything fits together.
 
-- 🔭 I’m currently working on a new **Next.js** project and exploring advanced **C#** concepts.
-- 🌱 I’m always learning, with a current focus on cloud deployment and systems architecture.
-- 📫 How to reach me: **[Discord](https://discord.gg/XYXbtnY8zy)**
-- Portfolio: **[jeremymhayes.com](https://jeremymhayes.com)**
+- Currently working on a **Next.js** project and getting deeper into **C# / .NET**
+- Lately been spending time learning more about deployment and backend systems
+- Discord: https://discord.gg/XYXbtnY8zy  
+- Portfolio: https://jeremymhayes.com  
 
 ---
 
-### 🛠️ My Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,80 +23,58 @@ I'm a passionate full-stack developer with a focus on creating engaging user exp
   </a>
 </p>
 
+---
 
+## Featured Projects
+
+### FileLocker
+A Windows desktop app for encrypting and decrypting files using AES-256-GCM. Built with C# and WinUI3.
+
+- Repo: https://github.com/AspectOV/FileLocker  
+- Download: https://github.com/AspectOV/FileLocker/releases/latest  
 
 ---
 
-### 🚀 My Featured Projects
+### Personal Portfolio
+My portfolio site where I showcase projects and what I’ve been working on. Built with Next.js, React, TypeScript, and Tailwind.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">FileLocker</h3>
-      <p align="center">
-        A robust Windows desktop application for secure file encryption and decryption using AES-256-GCM. Built with C# and WinUI3 for a clean, native user experience.
-        <br/><br/>
-        <a href="https://github.com/AspectOV/FileLocker" target="_blank"><strong>View Repo »</strong></a>
-        <br/>
-        <a href="https://github.com/AspectOV/FileLocker/releases/latest" target="_blank"><img src="https://img.shields.io/badge/Download-4CAF50?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Personal Portfolio</h3>
-      <p align="center">
-        My personal corner of the internet, designed to showcase my skills and projects. Built with Next.js, React, TypeScript, and Tailwind CSS for a modern, responsive design.
-        <br/><br/>
-        <a href="https://github.com/AspectOV/portfolio" target="_blank"><strong>View Repo »</strong></a>
-        <br/>
-        <a href="https://jeremymhayes.com" target="_blank"><img src="https://img.shields.io/badge/Visit_Website-E91E63?style=for-the-badge&logo=Vercel&logoColor=white" alt="Visit Website"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Vacancy Filled (Roblox)</h3>
-      <p align="center">
-        An immersive multiplayer horror game developed on the Roblox platform. The project features complex game state management, custom character mechanics, and an atmospheric sound design, all scripted in Luau.
-        <br/><br/>
-        <a href="https://www.roblox.com/games/18686880348/Vacancy-Filled-Beta-Test" target="_blank"><img src="https://img.shields.io/badge/Play_on_Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Multi-Purpose Discord Bot</h3>
-      <p align="center">
-        A versatile Discord bot designed for community engagement. It brings your server to life with a full economy system, an interactive AI chat, customizable welcome messages, fun social commands, and handy utilities for server management.
-        <br/><br/><br/>
-        <a href="https://discord.com/oauth2/authorize?client_id=1330729582122500146" target="_blank"><img src="https://img.shields.io/badge/Add_to_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add to Server"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+- Repo: https://github.com/AspectOV/portfolio  
+- Live: https://jeremymhayes.com  
 
 ---
 
-### 📊 My GitHub Stats
+### Vacancy Filled (Roblox)
+A multiplayer horror game with custom mechanics and game systems built in Luau.
+
+- Play: https://www.roblox.com/games/18686880348/Vacancy-Filled-Beta-Test  
+
+---
+
+### Discord Bot
+A multi-purpose Discord bot with economy features, utilities, and general server tools.
+
+- Add: https://discord.com/oauth2/authorize?client_id=1330729582122500146  
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AspectOV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="AspectOV's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="AspectOV's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AspectOV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
 </p>
 
 ---
 
-### 🤝 How to Contribute
+## Contributing
 
-I welcome contributions and collaborations! If you're interested in contributing, please feel free to fork a repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-1.  **Fork** the repository.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a **Pull Request**.
+If you want to contribute, feel free to fork and open a PR.  
+For bigger changes, open an issue first so we can talk it through.
 
 ---
 
-### ⚖️ License
+## License
 
-© 2025 Jeremy Hayes (AspectOV). All Rights Reserved.
+© 2025 Jeremy Hayes (AspectOV)
 
-My projects are available for viewing and educational purposes. If you wish to use them for commercial purposes, please contact me to discuss licensing.
+Projects are open for learning and reference. If you want to use something commercially, reach out first.
