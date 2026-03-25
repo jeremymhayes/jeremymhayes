@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy (AspectOV)
 
-I'm a full-stack developer who likes building real things—desktop apps, web apps, backend systems, and game mechanics. Most of what I make is focused on being practical, fast, and easy to use.
+I'm a full-stack developer who likes building fun projects like desktop apps, web apps, backend systems, and game mechanics. Most of what I make is focused on being practical, fast, and easy to use.
 
 Right now I’ve been spending a lot of time with **C# / .NET**, **Next.js**, backend development, and self-hosted infrastructure.
 
