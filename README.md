@@ -1,6 +1,8 @@
 # Hi, I'm Jeremy Hayes
 
-I'm a developer who likes building real things: desktop apps, web apps, backend systems, Discord tooling, and gameplay systems. Most of what I make is focused on being practical, fast, and clear to use.
+I'm a developer who likes building real things: desktop apps, web apps, backend systems, Discord tooling, and gameplay systems.
+
+Most of what I make is focused on being practical, fast, and clear to use.
 
 Right now I've been spending a lot of time with **C# / .NET**, **WinUI 3**, **Next.js**, **TypeScript**, Cloudflare, and privacy or security-focused tools.
 
@@ -51,46 +53,43 @@ Right now I've been spending a lot of time with **C# / .NET**, **WinUI 3**, **Ne
 
 ## Featured Projects
 
-### [Personal Portfolio](https://jeremymhayes.com)
-My portfolio site where I share projects, case studies, skills, and what I've been building.
-
-**Built with:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion  
-**Highlights:**
-- Structured content for project pages, archive pages, and case studies
-- Responsive design across desktop and mobile
-- Strong performance while still keeping custom UI and motion
-- Protected contact flow with Turnstile
-- Built as a real production site, not just a static template
-
-[Live site](https://jeremymhayes.com) • [GitHub profile](https://github.com/jeremymhayes)
-
----
-
 ### [FileLocker](https://github.com/jeremymhayes/FileLocker)
 A Windows desktop app for encrypting, decrypting, validating, and managing local files.
 
 **Built with:** C#, .NET, WinUI 3, NSIS  
 **Highlights:**
-- Guided Beginner, Intermediate, and Advanced experience modes
-- Drag and drop queue workflows with clearer counts, statuses, and item details
-- Safer file handling with validation, temporary output files, optional verification, backups, and cleanup controls
+- Beginner, Intermediate, and Advanced experience modes
+- Drag and drop queue workflows with clearer statuses and item details
+- Safer file handling with validation, backups, verification, and cleanup controls
 - GitHub Releases update checks and installer based release flow
-- Built as a native Windows application with real release and update considerations
 
 [View repo](https://github.com/jeremymhayes/FileLocker) • [Latest release](https://github.com/jeremymhayes/FileLocker/releases/latest)
 
 ---
 
+### [Personal Portfolio](https://jeremymhayes.com)
+My portfolio site where I share projects, case studies, and current work.
+
+**Built with:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion  
+**Highlights:**
+- Structured project and case study pages
+- Responsive design across desktop and mobile
+- Strong performance with custom UI and motion
+- Protected contact flow with Turnstile
+
+[Live site](https://jeremymhayes.com)
+
+---
+
 ### A.S.P.E.C.T Bot and Dashboard
-A Discord bot and dashboard system built for server tooling, automation, integrations, and persistent settings management.
+A Discord bot and dashboard system built for server tooling, automation, and persistent settings management.
 
 **Built with:** Python, `discord.py`, Cloudflare Workers, D1, OAuth  
 **Highlights:**
-- Slash commands, welcome and goodbye automation, reaction roles, and utility features
+- Slash commands, welcome automation, reaction roles, and utility systems
 - Dashboard sign-in with Discord OAuth
-- D1-backed server settings and sync endpoints
-- API based integrations and audit-aware server tooling
-- Built as an actual live system, not just a simple bot script
+- D1-backed settings and sync endpoints
+- API-based integrations for live use
 
 [Open dashboard](https://aspectbot.app)
 
@@ -103,8 +102,7 @@ A WinUI 3 desktop application focused on privacy-oriented screen redaction and d
 **Highlights:**
 - Real-time screen capture and analysis direction
 - Capture to detection to overlay pipeline
-- Designed to support model-driven redaction workflows
-- Modular structure for detection and overlay experimentation
+- Modular structure for redaction workflow experiments
 
 [View repo](https://github.com/jeremymhayes/PrivacyLens)
 
@@ -112,34 +110,10 @@ A WinUI 3 desktop application focused on privacy-oriented screen redaction and d
 
 ## What I Focus On
 
-A lot of my work tends to involve:
 - Building tools that reduce user error and make workflows clearer
 - Treating release quality and documentation as part of the product
 - Designing reusable systems instead of one-off fixes
-- Working across desktop, web, backend, and infrastructure when the project needs it
-- Building things that are practical first and polished because the underlying behavior is solid
-
----
-
-## Experience / Current Direction
-
-I've spent a lot of time building personal projects, reusable systems, and tooling across desktop software, web development, Discord systems, and Roblox-related work.
-
-A lot of that work has involved:
-- Designing and building reusable systems
-- Improving unclear or messy workflows
-- Connecting frontend interfaces with backend logic and deployment
-- Building tools that are meant to be used, not just shown off
-
----
-
-## Achievements
-
-- SkillsUSA Illinois State Finalist, Information Technology Services, **6th Place (2025)**
-- CompTIA Tech+, **2025**
-- CompTIA A+ (Core 1 and Core 2), **In progress**
-- National Technical Honor Society, **Member**
-- AP Computer Science Principles
+- Building things that are practical first and polished second
 
 ---
 
