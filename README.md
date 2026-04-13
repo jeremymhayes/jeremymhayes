@@ -6,8 +6,8 @@ I build desktop apps, personal web projects, Discord tooling, and gameplay syste
   <a href="https://jeremymhayes.com">
     <img src="https://img.shields.io/badge/Portfolio-jeremymhayes.com-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:jeremyhayesmatthew@email.com">
-    <img src="https://img.shields.io/badge/Email-jeremyhayesmatthew%40email.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:jeremy@jeremymhayes.com.com">
+    <img src="https://img.shields.io/badge/Email-jeremy%40jeremymhayes.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/jeremymhayes">
     <img src="https://img.shields.io/badge/GitHub-jeremymhayes-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
