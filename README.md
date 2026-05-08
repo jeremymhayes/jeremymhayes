@@ -6,7 +6,7 @@ Most of what I make is focused on being practical, fast, and clear to use.
 
 Right now I've been spending a lot of time with **C# / .NET**, **WinUI 3**, **Next.js**, **TypeScript**, Cloudflare, and privacy or security-focused tools.
 
-- Portfolio: [jeremymhayes.com](https://jeremymhayes.com)
+- Portfolio: [jeremymhayes.com](https://jeremymhayes.com) or [jeremyhayes.dev](https://jeremyhayes.dev)
 - Email: [jeremy@jeremymhayes.com](mailto:jeremy@jeremymhayes.com)
 - LinkedIn: [linkedin.com/in/jeremymhayes](https://linkedin.com/in/jeremymhayes/)
 - Discord: `aspectotd`
